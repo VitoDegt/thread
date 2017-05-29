@@ -1,0 +1,6 @@
+c:\users\c_sharp\documents\visual studio 2015\Projects\ThreadTask\ThreadTask\bin\Debug\ThreadTask.pdb
+c:\users\c_sharp\documents\visual studio 2015\Projects\ThreadTask\ThreadTask\obj\Debug\ThreadTask.csprojResolveAssemblyReference.cache
+c:\users\c_sharp\documents\visual studio 2015\Projects\ThreadTask\ThreadTask\obj\Debug\ThreadTask.pdb
+c:\users\c_sharp\documents\visual studio 2015\Projects\ThreadTask\ThreadTask\bin\Debug\ThreadTask.dll.config
+c:\users\c_sharp\documents\visual studio 2015\Projects\ThreadTask\ThreadTask\bin\Debug\ThreadTask.dll
+c:\users\c_sharp\documents\visual studio 2015\Projects\ThreadTask\ThreadTask\obj\Debug\ThreadTask.dll
